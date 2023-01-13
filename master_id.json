@@ -3,7 +3,7 @@
         "tokens": "Purchasing Equipment",
         "records": {
             "https://raw.githubusercontent.com/martinhohoff/placeholder_files/master/retailer_data.json": {
-                "key": "defg",
+                "_key": "defg",
                 "job": null,
                 "distance": 1
             }
@@ -13,7 +13,7 @@
         "tokens": "Software Licenses",
         "records": {
             "https://raw.githubusercontent.com/martinhohoff/placeholder_files/master/retailer_data.json": {
-                "key": "abcde",
+                "_key": "abcde",
                 "job": null,
                 "distance": 1
             }
