@@ -1,2 +1,2 @@
 {"contract_number": "abcde", "title": "Software Licenses"}
-{"contract_number": "defg", , "title": "Purchasing Equipment"}
+{"contract_number": "defg", "title": "Purchasing Equipment"}
