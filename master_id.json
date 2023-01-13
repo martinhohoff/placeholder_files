@@ -2,21 +2,23 @@
     {
         "tokens": "Purchasing Equipment",
         "records": {
-            "https://raw.githubusercontent.com/martinhohoff/placeholder_files/master/retailer_data.json": {
-                "_key": "defg",
+            "https://raw.githubusercontent.com/martinhohoff/placeholder_files/master/retailer_data.jl": {
+                "key": "defg",
                 "job": null,
-                "distance": 1
+                "distance": 0.0
             }
-        }
+        },
+        "_key": "4854edd7136e6f3906dc52e89b488b65"
     },
     {
         "tokens": "Software Licenses",
         "records": {
-            "https://raw.githubusercontent.com/martinhohoff/placeholder_files/master/retailer_data.json": {
-                "_key": "abcde",
+            "https://raw.githubusercontent.com/martinhohoff/placeholder_files/master/retailer_data.jl": {
+                "key": "abcde",
                 "job": null,
-                "distance": 1
+                "distance": 0.0
             }
-        }
+        },
+        "_key": "a91337870a0f6634c6042ee4f7b25b3e"
     }
 ]
